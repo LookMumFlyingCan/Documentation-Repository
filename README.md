@@ -11,7 +11,7 @@ rescue mission and capture the ADS-B and Cospas-Sarsat data
 ```
 
 ## CDR - Critical Design Review
-### 🚀 Finished on 15, January, 2020!
+### 🚀 Finished on 15, January, 2021!
 ### 📑 Changelog
 ```
 Added
@@ -29,4 +29,22 @@ Changed
 - Weight has been recalculated (see Weight)
 ```
 ## FDR - Final Design Review
-### 🏗 Work in progress!
+### 🚀 Finished on 1, March, 2021!
+### 📑 Changelog
+```
+Added
+RF Board designs
+- Performed tests
+- Risk assessment
+- Bill of materials
+- ADS-Bvisualisation software
+- Rocket launch details
+
+Changed
+- Outreach has been expanded
+- Mission description has been organized
+- New CanSat structure•New revision of PSU PCB
+- Ground support equipment has been expanded
+- RF link details have been updated
+- Test campaign has been developed
+```
