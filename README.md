@@ -2,7 +2,7 @@
 
 
 ## PDR - Preliminary Design Review
-### 🚀 Finished on 27, October, 2020!
+### 🚀 Finished on 27 October, 2020!
 ### 📑 Changelog
 ```
 Changed
@@ -11,7 +11,7 @@ rescue mission and capture the ADS-B and Cospas-Sarsat data
 ```
 
 ## CDR - Critical Design Review
-### 🚀 Finished on 15, January, 2021!
+### 🚀 Finished on 15 January, 2021!
 ### 📑 Changelog
 ```
 Added
@@ -29,7 +29,7 @@ Changed
 - Weight has been recalculated (see Weight)
 ```
 ## FDR - Final Design Review
-### 🚀 Finished on 1, March, 2021!
+### 🚀 Finished on 1 March, 2021!
 ### 📑 Changelog
 ```
 Added
