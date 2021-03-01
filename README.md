@@ -37,7 +37,7 @@ Added
 - Performed tests
 - Risk assessment
 - Bill of materials
-- ADS-Bvisualisation software
+- ADS-B visualisation software
 - Rocket launch details
 
 Changed
