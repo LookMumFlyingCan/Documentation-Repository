@@ -33,7 +33,7 @@ Changed
 ### 📑 Changelog
 ```
 Added
-RF Board designs
+- RF Board designs
 - Performed tests
 - Risk assessment
 - Bill of materials
